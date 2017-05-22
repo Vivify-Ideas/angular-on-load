@@ -29,7 +29,7 @@ In the template, use the `vi-on-load` directive:
 ### HTML
 
 ```html
-<iframe src="http:www.example.com" vi-on-load="function () { console.log('on load callback triggered.'); }"></iframe>
+<iframe src="http://www.example.com" vi-on-load="callBackFunctionReference"></iframe>
 ```
 
 ---
