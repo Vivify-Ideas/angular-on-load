@@ -16,6 +16,12 @@ or
 bower install vi-angular-on-load
 ```
 
+or
+
+```
+yarn add vi-angular-on-load
+```
+
 Register the module into your main app module
 
 ```javascript
